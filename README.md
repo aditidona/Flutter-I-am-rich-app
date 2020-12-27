@@ -1,16 +1,19 @@
 # i_am_rich
 
-A new Flutter application.
+My First Flutter application.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## My Learnings 
+  1. Setting up Android Studio and Emulator.
+  1. What we create is a MaterialApp. 
+  2. Adding a Scaffold & appBar.
+  3. Implementing a Centre Widget.
+  4. Adding an image to the body of the app.
+    - Adding an image from your local computer.
+      - Create an 'image' folder.
+      - Add the required image to the folder.
+      - Add dependencies in 'pubspec.yaml' 
+      - Get the image in your app through 'AssetImage' widget.
+      
+## Final App
+  ![Screenshot](Screenshot.png)
+      
